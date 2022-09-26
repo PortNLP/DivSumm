@@ -1,4 +1,4 @@
-# DivSumm
+# DivSumm summarization dataset
 
 Data for the COLING 2022 paper : Analyzing the Dialect Diversity in Multi-document Summaries.
 
