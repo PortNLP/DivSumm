@@ -9,19 +9,14 @@ DivSumm is a novel dataset consisting of dialect-diverse tweets and human-writte
 
 If you use this dataset in your work, please cite our paper:
 
-@inproceedings{olabisi-etal-2022-analyzing,
 
-    title = "Analyzing the Dialect Diversity in Multi-document Summaries",
-    
-    author = "Olabisi, Olubusayo  and Hudson, Aaron  and Jetter, Antonie  and Agrawal, Ameeta",
-    
-    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
-    
-    month = oct,
-    
-    year = "2022",
-    
-}
+    @inproceedings{olabisi-etal-2022-analyzing,
+        title = "Analyzing the Dialect Diversity in Multi-document Summaries",
+        author = "Olabisi, Olubusayo  and Hudson, Aaron  and Jetter, Antonie  and Agrawal, Ameeta",
+        booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+        month = oct,
+        year = "2022",
+    }
 
 ## Directories
 
